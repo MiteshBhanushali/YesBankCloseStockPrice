@@ -4,7 +4,7 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Regression Approach
-It will be a regression model to predict the final bonds_aaa values with the above predicted clusters.
+It will be a regression model to predict the final close values.
 
 The solution code is divided into the following sections:
 
