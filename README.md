@@ -12,13 +12,12 @@ The solution code is divided into the following sections:
 * Preprocessing
 * EDA
 * Handle missing values
-*  Cluster Classification
-    * Feature Selection and Dimensionality Reduction using PCA
+*  Regression Model
+    * Feature Selection
     * Baseline Model building
     * Cross Validation and Hyperparameter tuning
     * Model Evaluation
     * Model Selection
-    * Ensemble Model Building
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -33,4 +32,12 @@ The solution code is divided into the following sections:
   - Correlation
   ###### These plots are followed by sampling the data into two parts the first 80% for training the model and the remaining for testing the model. We perform curve fitting using the ARIMA model based on minimisation of SMAPE(squared mean absolute percentage error).
   ##### To conclude, the predictions are adequately accurate, but as the model is dynamic, its value will vary in different time frames.
+  
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+Mitesh Bhanushali | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
